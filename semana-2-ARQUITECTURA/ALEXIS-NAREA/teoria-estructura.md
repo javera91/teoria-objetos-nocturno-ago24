@@ -20,9 +20,8 @@ Los controladores de Nest.js pueden compararse con los cajeros de un restaurante
 
 ---
 ### Resumen
->[!Resumen]
->La estructura modular de Nest.js promueve la organización y la reutilización de código. Controladores, proveedores y servicios trabajan en conjunto para manejar solicitudes, implementar lógica y ofrecer funcionalidades.
->Los patrones de diseño y los decoradores simplifican la creación de aplicaciones robustas y escalables.
+La estructura modular de Nest.js promueve la organización y la reutilización de código. Controladores, proveedores y servicios trabajan en conjunto para manejar solicitudes, implementar lógica y ofrecer funcionalidades.
+Los patrones de diseño y los decoradores simplifican la creación de aplicaciones robustas y escalables.
 
 ---
 ### Referencias 
