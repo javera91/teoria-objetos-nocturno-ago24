@@ -1,3 +1,5 @@
+Leonardo Lituima // Jhonatahn Cadme
+
 # Teoría Colaborativa sobre ORM
 
 ## 1. Introducción a ORM
