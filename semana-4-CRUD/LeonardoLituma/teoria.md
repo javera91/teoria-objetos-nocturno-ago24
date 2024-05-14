@@ -42,3 +42,9 @@ Imaginemos una aplicación de gestión de productos. El CRUD en NestJS se asemej
 •	La arquitectura MVC y la inyección de dependencias facilitan la organización y el desarrollo modular.
 Conclusión:
 NestJS proporciona un marco sólido para implementar CRUD en aplicaciones web escalables. La comprensión de los conceptos teóricos, la reflexión sobre los componentes involucrados y la analogía con procesos cotidianos permiten una mejor comprensión y aplicación de estas técnicas en el desarrollo real.
+
+# Bibliografía:
+
+"SQL in 10 Minutes, 5th Edition" por Ben Forta"
+https://pdfcoffee.com/sql-in-10-minutes-a-day-sams-teach-yourself-by-ben-forta-pdf-free.html
+"Database Design for Mere Mortals" de Michael J. Hernandez.
