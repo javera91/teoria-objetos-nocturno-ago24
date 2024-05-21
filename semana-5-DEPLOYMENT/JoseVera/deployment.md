@@ -9,7 +9,6 @@ Es un paso crucial en el ciclo de vida del desarrollo de software, ya que marca 
 ### Analogía
 Como el estreno de una película. Después de meses de trabajo en la producción, edición y postproducción, llega el momento de lanzarla al público. Así como una película debe estar lista para su estreno en el cine, el software debe estar listo para su deployment, con todos los errores corregidos y los recursos necesarios preparados para su ejecución.
 
-
 ### Resumen
 Es el proceso de lanzar y poner en funcionamiento aplicaciones o actualizaciones de software para que estén listas y disponibles para su uso por parte de los usuarios finales. Este proceso es crucial para transformar el trabajo de desarrollo en una aplicación funcional y accesible.
 
