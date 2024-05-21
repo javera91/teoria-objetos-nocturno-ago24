@@ -1,0 +1,38 @@
+# CRUD: Operaciones Básicas en Bases de Datos
+
+## Teoría
+
+CRUD es un acrónimo que representa las cuatro operaciones básicas que se pueden realizar en una base de datos. Estas operaciones son:
+
+- **Create (Crear)**: Agregar nuevos registros a la base de datos.
+- **Read (Leer)**: Recuperar datos existentes de la base de datos.
+- **Update (Actualizar)**: Modificar registros existentes en la base de datos.
+- **Delete (Eliminar)**: Borrar registros existentes de la base de datos.
+
+Estas operaciones son fundamentales en el desarrollo de aplicaciones y sistemas de gestión de datos. CRUD es un concepto universal aplicable a cualquier sistema de bases de datos relacional (SQL) o no relacional (NoSQL).
+
+## Reflexión
+
+El concepto de CRUD es crucial para el diseño y la implementación de sistemas de bases de datos eficientes y manejables. Comprender y aplicar adecuadamente las operaciones CRUD asegura que las aplicaciones puedan interactuar con los datos de manera efectiva. Las operaciones CRUD forman la base de la interacción de datos, permitiendo a los usuarios gestionar información de manera intuitiva y sistemática. Además, la correcta implementación de CRUD puede mejorar la seguridad, integridad y rendimiento de la base de datos.
+
+## Analogía
+
+Imaginemos una biblioteca pública que usa un sistema CRUD para gestionar sus libros:
+
+- **Create (Crear)**: Cuando llega un nuevo libro a la biblioteca, el bibliotecario lo registra en el sistema, añadiendo detalles como el título, el autor, y el número de copias disponibles.
+- **Read (Leer)**: Un usuario de la biblioteca consulta el catálogo para verificar si un libro específico está disponible y obtener información sobre él.
+- **Update (Actualizar)**: Si un libro cambia de ubicación dentro de la biblioteca o se corrigen errores en los detalles del libro, el bibliotecario actualiza esta información en el sistema.
+- **Delete (Eliminar)**: Si un libro se pierde o se decide retirar del catálogo, el bibliotecario lo elimina del sistema de la biblioteca.
+
+## Resumen
+
+CRUD es un conjunto de operaciones básicas esenciales para interactuar con cualquier base de datos. Estas operaciones permiten crear, leer, actualizar y eliminar datos, facilitando la gestión y manipulación de la información de manera estructurada y eficiente. El concepto de CRUD es aplicable a diversos sistemas de bases de datos y es fundamental para el desarrollo de aplicaciones que requieren interacción con datos persistentes.
+
+## Referenciado de libros
+
+1. **"Database System Concepts"** por Abraham Silberschatz, Henry F. Korth, y S. Sudarshan. Este libro ofrece una visión detallada de los sistemas de bases de datos y explica las operaciones CRUD en el contexto del diseño y la gestión de bases de datos.
+   
+2. **"SQL and Relational Theory: How to Write Accurate SQL Code"** por C.J. Date. Proporciona una comprensión profunda de cómo se implementan las operaciones CRUD en SQL y cómo se relacionan con la teoría relacional.
+   
+3. **"Learning SQL"** por Alan Beaulieu. Este libro es ideal para principiantes y cubre las operaciones CRUD dentro del contexto del aprendizaje de SQL, proporcionando ejemplos prácticos y ejercicios.
+
